@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2171875" />
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2171875" />
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_task.xml" value="0.18" />
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_task_list.xml" value="0.33" />
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/list_item_task.xml" value="0.67" />
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/fragment_task_menu.xml" value="0.1" />
+        <entry key="..\:/Users/cyber/AndroidStudioProjects/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2153846153846154" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/SM7/app/src/main/res/layout/list_item_task.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/SM7/app/src/main/res/menu/fragment_task_menu.xml" value="0.3255208333333333" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/Systemy-mobilne-6-master/app/src/main/res/drawable-anydpi/task_done_image.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/Systemy-mobilne-6-master/app/src/main/res/layout/activity_main.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/Systemy-mobilne-6-master/app/src/main/res/layout/fragment_task.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/Systemy-mobilne-6-master/app/src/main/res/layout/fragment_task_list.xml" value="0.15830800405268491" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/Systemy-mobilne-6-master/app/src/main/res/layout/list_item_task.xml" value="0.15830800405268491" />
+        <entry key="..\:/Users/daria/OneDrive/Pulpit/Systemy-mobilne-6-master/app/src/main/res/menu/fragment_task_menu.xml" value="0.32051282051282054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
